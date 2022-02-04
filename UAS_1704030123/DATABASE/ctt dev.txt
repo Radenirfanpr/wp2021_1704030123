@@ -1,0 +1,5 @@
+FW: PHP Native
+
+PHP7:
+- Penambahan convert php 7 di folder utama dan folder inc
+- Pengaturan database di folder inc => config.php
